@@ -1,7 +1,6 @@
-![Project Image](https://www.bostonhousing.org/getattachment/2ec35abb-7e88-455a-8157-230ab2134078/HousingDevelopmentDetail.aspx)
-
----
 # Boston House Price Prediction Using Linear Regression
+![Project Image](https://www.bostonhousing.org/getattachment/2ec35abb-7e88-455a-8157-230ab2134078/HousingDevelopmentDetail.aspx)
+---
 The Boston House price prediction is aimed at predicting the price of a house and to determine the factors on which the price depends.
 
 ## Dataset Description
