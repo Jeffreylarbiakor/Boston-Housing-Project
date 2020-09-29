@@ -1,7 +1,7 @@
 # Boston House Price Prediction Using Linear Regression
 The Boston House price prediction is aimed at predicting the price of a house and to determine the factors on which the price depends.
 
-![Project Image](https://media.parstoday.com/image/4bn4a144eabe14ye08_800C450.jpg)
+![Project Image](https://www.bostonhousing.org/getattachment/2ec35abb-7e88-455a-8157-230ab2134078/HousingDevelopmentDetail.aspx)
  
 ---
 ## Dataset Description
